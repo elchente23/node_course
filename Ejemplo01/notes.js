@@ -1,5 +1,3 @@
-console.log('Starting notes.js');
-
 const fs = require("fs");
 
 let fecthNotes = () => {
